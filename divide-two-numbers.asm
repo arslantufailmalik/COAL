@@ -1,6 +1,6 @@
 .data
-msg: .asciiz "The Result is"
-a: .word 10
+msg: .asciiz "The Result is "
+a: .word 12
 a1: .word 3
 
 .text
